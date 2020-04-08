@@ -97,17 +97,12 @@
 #
 #
 #
-#
-#
-#
+
 #### 사이트 구축 후 아쉬웠던 점
 ##### 1. 관리자 페이지에서 좌석 등급을 변경할 때 한 줄 선택이 되지 않는다.(개별 선택만 가능 -> 이러한 문제는 자바 스크립트를 이용하면 해결 가능할 것 같다.)
 ##### 2. 연극 상세정보에 배우의 정보가 부족하다. 
 ##### 3. 연극 상세정보에 극장이름만 적혀있어 따로 극장 페이지에서 극장을 조회해야한다.(이러한 문제는 연극 상세페이지에서 극장이름에 링크를 걸어 해결했지만 아쉽다.)  
 
-#
-#
-#
 #
 #
 #
@@ -120,8 +115,9 @@
 
 #### Eclipse 설치
 
-##### cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
-##### 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 변경. (PATH설정)
+##### 1. cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
+##### 2. 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 
+##### 3. 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 변경. (PATH설정)
 
 #
 #
