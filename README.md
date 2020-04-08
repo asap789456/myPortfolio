@@ -1,14 +1,23 @@
 # ★ APicket
 ### A play(단 하나의 연극) + Ticket(표)
 
-###### 프로젝트 설명 : 기존의 문화생활 카테고리를 통합 제공하는 소셜커머스가 아닌 연극전문사이트에서 최신 연극정보와 실시간 예매순위를 확인하고 싶은 고객, 가까운 극장정보와 상영정보를 한눈에 보고 싶은 고객, 번호표 형식의 선착순 자리배치가 아닌 내가 직접 좌석을 선택할 수 있는 20 30대 층을 겨냥한 사이트
+###### 프로젝트 설명 : 기존의 문화생활 카테고리를 통합 제공하는   소셜커머스가 아닌 연극전문사이트에서 최신 연극정보와 실시간 예매순위를 확인하고 싶은 고객, 가까운 극장정보와 상영정보를 한눈에 보고 싶은 고객, 번호표 형식의 선착순 자리배치가 아닌 내가 직접 좌석을 선택할 수 있는 20 30대 층을 겨냥한 사이트
 
 
 <img src="https://user-images.githubusercontent.com/28374739/78770548-add49900-79c9-11ea-9d5a-27bb43bbba06.PNG" height="400px">
 
+<div>
+  
+<img src="https://user-images.githubusercontent.com/28374739/78793636-a3c49180-79ed-11ea-89ae-b467775b6d1c.PNG" width="49%" height="300px">
+<img src="https://user-images.githubusercontent.com/28374739/78793641-a58e5500-79ed-11ea-9b09-9b8908fa881f.PNG" width="49%" height="300px">
+                                                                                                                              
+</div>
 
-### 사용자
-###### ① 회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 정보가 입력되지 않으면 회원가입이 되지 않는다.)
+### 사용자   
+  ㄹ  
+    ㄹ  
+
+###### ① 회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 정보가 입력되지 않으면 회원가입이 되지 않는다.)  
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78772109-36eccf80-79cc-11ea-8199-3d281faee4b9.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78772106-36543900-79cc-11ea-9723-9a860596e2e6.png" width="45%">
@@ -47,6 +56,9 @@
 
 ###### ③ 관리자는 회원들의 정보를 확인 가능하고, 작성된 리뷰들을 삭제 할 수 있다(비난 or 욕설 난무하는 리뷰 - 청결한 리뷰를 위해!)
 <img src="https://user-images.githubusercontent.com/28374739/78781779-d2d20780-79db-11ea-8655-c101ac42450d.png">
+
+###### ④ 회원들이 예매한 연극 별 총 매출을 통해 통계 화면 구현
+<img src="https://user-images.githubusercontent.com/28374739/78793268-1c771e00-79ed-11ea-8d44-0d8900ed8aae.PNG">
 
 
 
