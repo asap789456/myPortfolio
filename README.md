@@ -48,28 +48,45 @@
 ###### ⑤ 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
 <img src="https://user-images.githubusercontent.com/28374739/78779455-f4c98b00-79d7-11ea-9b5e-9ed7f1942c96.PNG">
 
-###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했다.)
+#
+#
 
+###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했다.)
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78779868-b08aba80-79d8-11ea-9625-b83f43ab5649.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
-</div>
+</div>  
 
+#
+#
+#
+#
 
 ### 관리자(사용자 계정이 아닌 관리자 계정을 이용!)
 ###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
 <img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png">
 
+#
+#
+
 ###### ② 관리자는 연극 마다 예매한 회원들의 수를 파악할 수 있다.
 <img src="https://user-images.githubusercontent.com/28374739/78781367-16784180-79db-11ea-8f8a-29f204b1420f.png">
 
+#
+#
+
 ###### ③ 관리자는 회원들의 정보를 확인 가능하고, 작성된 리뷰들을 삭제 할 수 있다(비난 or 욕설 난무하는 리뷰 - 청결한 리뷰를 위해!)
 <img src="https://user-images.githubusercontent.com/28374739/78781779-d2d20780-79db-11ea-8655-c101ac42450d.png">
+
+#
+#
 
 ###### ④ 회원들이 예매한 연극 별 총 매출을 통해 통계 화면 구현
 <img src="https://user-images.githubusercontent.com/28374739/78793268-1c771e00-79ed-11ea-8d44-0d8900ed8aae.PNG">  
 
 
+#
+#
 #
 #
 #
