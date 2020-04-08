@@ -33,8 +33,8 @@
 ###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했다.)
 
 <div>
-<img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78779868-b08aba80-79d8-11ea-9625-b83f43ab5649.png" width="45%">
+<img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
 </div>
 
 
