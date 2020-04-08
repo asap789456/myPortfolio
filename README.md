@@ -27,8 +27,17 @@
 <img src="https://user-images.githubusercontent.com/28374739/78778406-2e999200-79d6-11ea-8bf8-e8ef6fa2422a.png" width="33%">
 </div>
 
-###### 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
+###### ⑤ 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
 <img src="https://user-images.githubusercontent.com/28374739/78779455-f4c98b00-79d7-11ea-9b5e-9ed7f1942c96.PNG">
+
+###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했다.)
+
+<div>
+<img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
+<img src="https://user-images.githubusercontent.com/28374739/78779868-b08aba80-79d8-11ea-9625-b83f43ab5649.png" width="45%">
+</div>
+
+
 
 
 
