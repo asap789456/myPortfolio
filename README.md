@@ -12,22 +12,22 @@
 <img src="https://user-images.githubusercontent.com/28374739/78793641-a58e5500-79ed-11ea-9b09-9b8908fa881f.PNG" width="49%" height="300px">
                                                                                                                               
 </div>
-
+#
+#
 ### 사용자   
-  ㄹ  
-    ㄹ  
 
 ###### ① 회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 정보가 입력되지 않으면 회원가입이 되지 않는다.)  
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78772109-36eccf80-79cc-11ea-8199-3d281faee4b9.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78772106-36543900-79cc-11ea-9723-9a860596e2e6.png" width="45%">
 </div>
-
+#
 ###### ② 연극 리스트 나열(약 15개의 연극들) - 예매하고 싶은 연극 선택(연극 리스트들이 스크롤링 되어 선택가능 하게 되어있다.)<br><br>
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78777784-22610500-79d5-11ea-8293-2d518236fe04.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78777788-23923200-79d5-11ea-868b-df03d745c3ba.png" width="45%">
 </div>
+#
 
 ###### ③ 연극을 보고 싶은 날짜 선택 - 오후 12시 전 예매는 조조할인 5% 적용(alert이용) - 좌석 선택 후 할인 된 가격 확인
 <div>
@@ -35,6 +35,7 @@
 <img src="https://user-images.githubusercontent.com/28374739/78778405-2e999200-79d6-11ea-803a-8f0b77d7cd9c.png" width="33%">
 <img src="https://user-images.githubusercontent.com/28374739/78778406-2e999200-79d6-11ea-8bf8-e8ef6fa2422a.png" width="33%">
 </div>
+#
 
 ###### ⑤ 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
 <img src="https://user-images.githubusercontent.com/28374739/78779455-f4c98b00-79d7-11ea-9b5e-9ed7f1942c96.PNG">
@@ -61,7 +62,13 @@
 <img src="https://user-images.githubusercontent.com/28374739/78793268-1c771e00-79ed-11ea-8d44-0d8900ed8aae.PNG">
 
 
-
+#
+##
+##
+##
+##
+##
+#
 
 
 
