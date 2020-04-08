@@ -115,8 +115,8 @@
 #
 
 
-###### 개발 프로그램 : Eclipse, HeidiSQL, MYSQL
-### 설치방법
+### 개발 프로그램 : Eclipse, HeidiSQL, MYSQL
+#### 설치방법
 
 #### Eclipse 설치
 
