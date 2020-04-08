@@ -35,7 +35,7 @@
 #
 #
 
-###### ③ 연극을 보고 싶은 날짜 선택 - 오후 12시 전 예매는 조조할인 5% 적용(alert이용) - 좌석 선택 후 할인 된 가격 확인
+###### ③ 연극을 보고 싶은 날짜 선택 - 오후 12시 전 예매는 조조할인 5% 적용(선택 시 알림창을 띄움) - 좌석 선택 후 할인 된 가격 확인
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78778402-2d686500-79d6-11ea-8d23-88bc9c0fdb45.png" width="25%">
 <img src="https://user-images.githubusercontent.com/28374739/78778405-2e999200-79d6-11ea-803a-8f0b77d7cd9c.png" width="33%">
