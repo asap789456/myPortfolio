@@ -26,7 +26,7 @@
 #
 #
 
-###### ② 연극 리스트 나열(약 15개의 연극들) - 예매하고 싶은 연극 선택(연극 리스트들이 스크롤링 되어 선택가능 하게 되어있다.)<br><br>
+###### ② 연극 리스트 나열(약 15개의 연극들) - 예매하고 싶은 연극 선택(연극 리스트들이 스크롤링 되어 선택 가능하게 되어있다.)<br><br>
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78777784-22610500-79d5-11ea-8293-2d518236fe04.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78777788-23923200-79d5-11ea-868b-df03d745c3ba.png" width="45%">
@@ -54,7 +54,7 @@
 #
 #
 
-###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현하지 못함.)
+###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 여러가지 문제로 구현하지 못함.)
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78779868-b08aba80-79d8-11ea-9625-b83f43ab5649.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
@@ -66,7 +66,7 @@
 #
 
 ### 관리자(사용자 계정이 아닌 관리자 계정을 이용!)
-###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
+###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 '회차확인하기' 버튼을 클릭하여 확인할 수 있다.)
 <img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png">
 
 #
@@ -100,10 +100,10 @@
 #
 #
 #
-### 사이트 구축 후 아쉬웠던 점
-#### 1. 관리자 페이지에서 좌석 등급을 변경할 때 한 줄 선택이 되지 않는다. 
-#### 2. 연극 상세정보에 배우의 정보가 부족하다. 
-#### 3. 연극 상세정보에 극장이름만 적혀있어 따로 극장 페이지에서 극장을 조회해야한다. 
+#### 사이트 구축 후 아쉬웠던 점
+##### 1. 관리자 페이지에서 좌석 등급을 변경할 때 한 줄 선택이 되지 않는다.(개별 선택만 가능 -> 이러한 문제는 자바 스크립트를 이용하면 해결 가능할 것 같다.)
+##### 2. 연극 상세정보에 배우의 정보가 부족하다. 
+##### 3. 연극 상세정보에 극장이름만 적혀있어 따로 극장 페이지에서 극장을 조회해야한다.(이러한 문제는 연극 상세페이지에서 극장이름에 링크를 걸어 해결했지만 아쉽다.)  
 
 #
 #
@@ -120,20 +120,20 @@
 
 #### Eclipse 설치
 
-###### cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
-###### 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 변경. (PATH설정)
+##### cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
+##### 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 변경. (PATH설정)
 
 #
 #
 
-#### 본격적으로 Eclipse를 설치
-1. https://www.eclipse.org/ 에 접속하여 Eclipse를 다운로드
-2. 설치되면 installer 화면 창에서 Eclipse IDE for Enterprise Java Developers을 선택 후 다운로드
-3. 설치 성공
+##### 본격적으로 Eclipse를 설치
+###### 1. https://www.eclipse.org/ 에 접속하여 Eclipse를 다운로드
+###### 2. 설치되면 installer 화면 창에서 Eclipse IDE for Enterprise Java Developers을 선택 후 다운로드
+###### 3. 설치 성공
 
-#### MYSQL을 설치
-1. MYSQL 홈페이지에 접속
-2. 화면 2번째 탭에 다운로드 탭 선택. 
-3. 다운로드가 완료된 뒤, 설치파일 압축이 풀리면 첫번째 버튼을 누르고 Next 선택.
-4. MYSQL은 ROOT계정과 user를 추가가능. DBMS 콘솔로도 추가가 가능하므로 ROOT 계정의 password를 입력 후, next 선택.
-5. 설치가 완료되었는지 확인: 시작 > 모든 프로그램 > MYSQL > MYSQL 서버 > MYSQL 콘솔에 접속하면 콘솔화면이 출력.
+###### MYSQL을 설치
+###### 1. MYSQL 홈페이지에 접속
+###### 2. 화면 2번째 탭에 다운로드 탭 선택. 
+###### 3. 다운로드가 완료된 뒤, 설치파일 압축이 풀리면 첫번째 버튼을 누르고 Next 선택.
+###### 4. MYSQL은 ROOT계정과 user를 추가가능. DBMS 콘솔로도 추가가 가능하므로 ROOT 계정의 password를 입력 후, next 선택.
+###### 5. 설치가 완료되었는지 확인: 시작 > 모든 프로그램 > MYSQL > MYSQL 서버 > MYSQL 콘솔에 접속하면 콘솔화면이 출력.
