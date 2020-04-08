@@ -26,7 +26,7 @@
 #
 #
 
-###### ② 연극 리스트 나열(약 15개의 연극들) - 예매하고 싶은 연극 선택(연극 리스트들이 스크롤링 되어 선택가능 하게 되어있다.)<br><br>
+###### ② 연극 리스트 나열(약 15개의 연극들) - 예매하고 싶은 연극 선택(연극 리스트들이 스크롤링 되어 선택가능 하게 되어있습니다.)<br><br>
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78777784-22610500-79d5-11ea-8293-2d518236fe04.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78777788-23923200-79d5-11ea-868b-df03d745c3ba.png" width="45%">
@@ -47,11 +47,12 @@
 
 ###### ⑤ 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
 <img src="https://user-images.githubusercontent.com/28374739/78779455-f4c98b00-79d7-11ea-9b5e-9ed7f1942c96.PNG">
+![프레젠테이션1](https://user-images.githubusercontent.com/28374739/78795968-a379c580-79f0-11ea-930b-779f8daacc07.png)
 
 #
 #
 
-###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했다.)
+###### ⑥ 마이페이지에서 예매 된 연극의 정보 확인 가능 & 감상한 연극에 대해 별점을 주며 리뷰 작성 가능(별점으로 예매 순위를 구현해보려 했지만 아직 구현 못했습니다.)
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78779868-b08aba80-79d8-11ea-9625-b83f43ab5649.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78779864-aff22400-79d8-11ea-946e-515cdeed1445.png" width="45%">
@@ -63,19 +64,24 @@
 #
 
 ### 관리자(사용자 계정이 아닌 관리자 계정을 이용!)
-###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
+###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있습니다.)
 <img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png">
 
 #
 #
+###### ② 관리자는 극장 좌석의 등급을 상황에 맞게 변경할 수 있습니다.(R석->S석, S석->R석 아래 사진은 ** R석 2자리를 S석으로 변경한 것입니다. **)
+![프레젠테이션1](https://user-images.githubusercontent.com/28374739/78797092-349d6c00-79f2-11ea-8979-4f0f075cfa14.png)
 
-###### ② 관리자는 연극 마다 예매한 회원들의 수를 파악할 수 있다.
+#
+#
+
+###### ② 관리자는 연극 마다 예매한 회원들의 수를 파악할 수 있습니다.
 <img src="https://user-images.githubusercontent.com/28374739/78781367-16784180-79db-11ea-8f8a-29f204b1420f.png">
 
 #
 #
 
-###### ③ 관리자는 회원들의 정보를 확인 가능하고, 작성된 리뷰들을 삭제 할 수 있다(비난 or 욕설 난무하는 리뷰 - 청결한 리뷰를 위해!)
+###### ③ 관리자는 회원들의 정보를 확인 가능하고, 작성된 리뷰들을 삭제 할 수 있습니다(비난 or 욕설 난무하는 리뷰 - 청결한 리뷰를 위해!)
 <img src="https://user-images.githubusercontent.com/28374739/78781779-d2d20780-79db-11ea-8655-c101ac42450d.png">
 
 #
@@ -84,6 +90,18 @@
 ###### ④ 회원들이 예매한 연극 별 총 매출을 통해 통계 화면 구현
 <img src="https://user-images.githubusercontent.com/28374739/78793268-1c771e00-79ed-11ea-8d44-0d8900ed8aae.PNG">  
 
+#
+#
+#
+#
+#
+#
+#
+#
+#### 사이트 구축 후 아쉬웠던 점
+관리자 페이지에서 좌석 등급을 변경할 때 한 줄 선택이 되지 않는다. 
+연극 상세정보에 배우의 정보가 부족하다. 
+연극 상세정보에 극장이름만 적혀있어 따로 극장 페이지에서 극장을 조회해야한다. 
 
 #
 #
@@ -95,31 +113,11 @@
 #
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###### 작동에 필요한 개발도구 : Eclipse, HeidiSQL, MYSQL
+###### 개발 프로그램 : Eclipse, HeidiSQL, MYSQL
+### 설치방법
 
 #### Eclipse 설치
+
 ###### cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
 ###### 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 해줍니다. (PATH설정) <br><br>
 
