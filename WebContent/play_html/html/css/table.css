@@ -1,0 +1,42 @@
+
+table.type07 {
+    border-collapse: collapse;
+    text-align: left;
+    line-height: 1.5;
+    border: 1px solid #fff;
+    margin: 20px 10px;
+}
+table.type07 thead {
+   border-style: 3px solid;
+    
+}
+
+#strong{
+	 background: #ffd564;
+}
+
+table.type07 thead th {
+	width: atuo;
+    padding: 0px;
+    font-weight: bold;
+    vertical-align: center;
+    font-color: #4c4145;
+    text-align: center;
+    background: #fff0c7;
+}
+table.type07 tbody th {
+    width: auto;
+    padding: 10px;
+    font-weight: bold;
+    vertical-align: top;
+    border-bottom: 2px solid #fff;
+    background: #fcf1f4;
+}
+table.type07 td {
+    width: auto;
+    padding: auto;
+    vertical-align: top;
+    border-bottom: 2px solid #fff;
+    background-color: #f5f5f5;
+	text-align: center;
+}

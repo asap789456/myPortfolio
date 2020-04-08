@@ -1,0 +1,202 @@
+*{
+	padding:0;
+	text-decoration: none;
+	list-style: none;
+	font-family: Verdana;
+}
+
+div#tables a{
+	color:black;
+	margin-left: 50px;
+	font-size:14px;
+ 
+}
+div#bar_home{
+	height: 45px;
+	width: 65px;
+	background: #FFB914;
+	margin-left:250px;
+
+}
+
+div#bar{
+	height: 45px;
+	width: 935px;
+	background: #FAEBD4;
+	margin-left: 65px;
+	font-size: 13px;
+	line-height: 45px;
+	text-indent: 30px;
+
+}
+
+table thead tr td{
+	text-align: center;
+	padding: 9px;
+	line-height:20px;
+	font-size:14px;
+
+}
+.table{
+	margin: 0 auto;
+	width: 1100px;
+	margin-left:-0px;
+}
+.write{
+	border:1px solid #fdcb58;
+	padding:8px;
+	border-radius:4px;
+	colot:#fff;
+	float:right;
+	cursor:pointer;
+	background-color:#fdcb58;
+	margin-right:20px;
+	margin-top:-19px;
+}
+#view{
+	padding-left: 40px;
+
+
+}
+tr.bar{
+	 height: 5px;
+	 width: 1080px; 
+	 background-color: #e3e3e3;
+	 font-weight:bold;
+	 border-radius:30px;
+}
+
+
+
+.page-heading {
+  padding-left: 30px;
+  margin-top: 56px;
+  margin-bottom: 27px;
+  font: 20px 'aleobold', sans-serif;
+  color: #4c4145;
+  text-transform: uppercase;
+  background-image: url(../images/components/scarf.png);
+  -webkit-background-size: 21px 6px;
+  background-size: 21px 6px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+}
+h2 {
+  color: #4c4145;
+  font-size: 27px;
+  font-family: 'aleoregular', sans-serif;
+  margin-top: 70px;
+  margin-bottom: 23px;
+}
+
+hr{
+	width: 1080px;
+	color: #f0f0f0;
+	border: thin solid;
+	margin-top: 5px;
+}
+
+
+
+
+.paginatioon--full {
+  padding-right: 10;
+}
+.pagination {
+  padding-right: 330px;
+  display: block;
+  margin-top: -32px;
+}
+.pagination .pagination__prev {
+  font: 13px 'aleoregular', sans-serif;
+  color: #4c4145;
+  text-transform: uppercase;
+  display: inline-block;
+  padding: 8px 0 9px 43px;
+  margin-left: 408px;
+  background-image: url(../images/icons/left-arrow-dark.svg);
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.pagination .pagination__prev:hover {
+  color: #fe505a;
+  background-image: url(../images/icons/left-arrow-danger.svg);
+  background-position: 0 50%;
+}
+.pagination .pagination__next {
+  font: 13px 'aleoregular', sans-serif;
+  color: #4c4145;
+  text-transform: uppercase;
+  float: right;
+  display: inline-block;
+  padding: 8px 43px 9px 0;
+  margin-right: 118px;
+  background-image: url(../images/icons/right-arrow-dark.svg);
+  background-repeat: no-repeat;
+  background-position: right center;
+}
+.pagination .pagination__next:hover {
+  color: #fe505a;
+  background-image: url(../images/icons/right-arrow-danger.svg);
+}
+.booking-pagination {
+  text-align: center;
+  margin-top: 57px;
+  margin-bottom: 90px;
+}
+.booking-pagination .booking-pagination__prev {
+  display: inline-block;
+  padding: 6px 14px;
+  background: none;
+  border: none;
+  box-shadow: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+.booking-pagination .booking-pagination__prev:hover {
+  color: #ffffff;
+  background-color: #fe505a;
+}
+.booking-pagination .booking-pagination__prev:hover .arrow__text {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+.booking-pagination .booking-pagination__prev:hover .arrow__text:before {
+  color: #ffffff;
+}
+.booking-pagination .booking-pagination__prev:hover .arrow__info {
+  color: #ffffff;
+}
+.booking-pagination .booking-pagination__next {
+  display: inline-block;
+  padding: 6px 14px;
+  background: none;
+  border: none;
+  box-shadow: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+
+}
+.booking-pagination .booking-pagination__next:hover {
+  color: #ffffff;
+  background-color: #fe505a;
+}
+.booking-pagination .booking-pagination__next:hover .arrow__text {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+.booking-pagination .booking-pagination__next:hover .arrow__text:before {
+  color: #ffffff;
+}
+.booking-pagination .booking-pagination__next:hover .arrow__info {
+  color: #ffffff;
+}
