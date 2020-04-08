@@ -38,7 +38,9 @@
 </div>
 
 
-
+### 관리자
+###### ① 연극등록 수정 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
+<img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png" width="45%">
 
 
 
