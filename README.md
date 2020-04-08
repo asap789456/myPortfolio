@@ -7,3 +7,8 @@
 #### Eclipse 설치
 ###### cmd 창 실행 후 > <b>java -version </b><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              > <b>javac-version</b> 명령어를 입력하여 Java SE 설치되어있는지 확인 <br>
 ###### 만약 설치가 안되어있다면 오라클 사이트 접속 후 "Java SE Downloads" 클릭해 설치 - (저는 jdk1.8.0을 설치하였습니다.) 설치 된 jdk의 주소를 확인하고 자신의 컴퓨터 환경설정을 해줍니다. (PATH설정) <br><br>
+
+#### 본격적으로 Eclipse를 설치합니다.
+1. https://www.eclipse.org/ 에 들어가 Eclipse를 다운로드
+2. 설치되면 installer 화면 창에서 Eclipse IDE for Enterprise Java Developers을 선택 후 다운로드
+3. 설치 성공
