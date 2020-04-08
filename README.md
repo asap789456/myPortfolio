@@ -7,7 +7,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78772109-36eccf80-79cc-11ea-8199-3d281faee4b9.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78772106-36543900-79cc-11ea-9723-9a860596e2e6.png" position="relative" width="45%" top="-100px;">
-  회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 칸이 입력되지 않으면 회원가입이 되지 않아요.)
+<p>회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 칸이 입력되지 않으면 회원가입이 되지 않아요.)</p>
 </div>
 
 
