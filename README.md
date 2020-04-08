@@ -38,10 +38,12 @@
 </div>
 
 
-### 관리자
-###### ① 연극등록 수정 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
-<img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png" width="45%">
+### 관리자(사용자 계정이 아닌 관리자 계정을 이용!)
+###### ① 연극 등록, 수정, 삭제가 가능하며, 연극에 대한 회차 등록이 가능(회차등록을 하고 등록된 회차를 확인할 수 있다.)
+<img src="https://user-images.githubusercontent.com/28374739/78780849-39eebc80-79da-11ea-99ae-67ae1c760d66.png">
 
+###### 관리자는 연극 마다 예매한 회원들의 수를 파악할 수 있다.
+<img src="https://user-images.githubusercontent.com/28374739/78781367-16784180-79db-11ea-8f8a-29f204b1420f.png">
 
 
 
