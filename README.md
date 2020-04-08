@@ -3,14 +3,22 @@
 
 ###### 프로젝트 설명 : 기존의 문화생활 카테고리를 통합 제공하는 소셜커머스가 아닌 연극전문사이트에서 최신 연극정보와 실시간 예매순위를 확인하고 싶은 고객, 가까운 극장정보와 상영정보를 한눈에 보고 싶은 고객, 번호표 형식의 선착순 자리배치가 아닌 내가 직접 좌석을 선택할 수 있는 20 30대 층을 겨냥한 사이트
 
+
+<img src="https://user-images.githubusercontent.com/28374739/78770548-add49900-79c9-11ea-9d5a-27bb43bbba06.PNG" width="40%" height="300px" auto="center">
+
+
 ### 사용자
 <div>
 <img src="https://user-images.githubusercontent.com/28374739/78772109-36eccf80-79cc-11ea-8199-3d281faee4b9.png" width="45%">
 <img src="https://user-images.githubusercontent.com/28374739/78772106-36543900-79cc-11ea-9723-9a860596e2e6.png" position="relative" width="45%" top="-100px;">
 </div>
 
-### 회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 칸이 입력되지 않으면 회원가입이 되지 않아요.)
+###### 회원가입을 한 후에 로그인 하고 연극 예매 시작! (회원가입 시 모든 칸이 입력되지 않으면 회원가입이 되지 않아요.)
 
+<div>
+<img src="https://user-images.githubusercontent.com/28374739/78772109-36eccf80-79cc-11ea-8199-3d281faee4b9.png" width="45%">
+<img src="https://user-images.githubusercontent.com/28374739/78772106-36543900-79cc-11ea-9723-9a860596e2e6.png" position="relative" width="45%" top="-100px;">
+</div>
 
 
 
