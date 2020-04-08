@@ -47,7 +47,9 @@
 
 ###### ⑤ 티켓 확인(이 과정에서 회원가입 시 입력했던 @이메일 주소@ 로 티켓발송)
 <img src="https://user-images.githubusercontent.com/28374739/78779455-f4c98b00-79d7-11ea-9b5e-9ed7f1942c96.PNG">
-![프레젠테이션1](https://user-images.githubusercontent.com/28374739/78795968-a379c580-79f0-11ea-930b-779f8daacc07.png)
+###### 이메일발송
+<img src="https://user-images.githubusercontent.com/28374739/78795968-a379c580-79f0-11ea-930b-779f8daacc07.png">
+
 
 #
 #
@@ -70,7 +72,7 @@
 #
 #
 ###### ② 관리자는 극장 좌석의 등급을 상황에 맞게 변경할 수 있다.(R석->S석, S석->R석 아래 사진은 ** R석 2자리를 S석으로 변경한 것. **)
-![프레젠테이션1](https://user-images.githubusercontent.com/28374739/78797092-349d6c00-79f2-11ea-8979-4f0f075cfa14.png)
+<img src="https://user-images.githubusercontent.com/28374739/78797092-349d6c00-79f2-11ea-8979-4f0f075cfa14.png">
 
 #
 #
